@@ -1,0 +1,28 @@
+body {
+    Background-color: #EFFFFD;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: #ED9191;
+    border-top-width: 6px;
+    width: 5%;
+}
+
+.mypic {
+    width: 15%;
+    height: 100%;
+}
+
+img {
+    height: 20px;
+    border-radius: 100px;
+}
