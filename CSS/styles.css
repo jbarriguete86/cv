@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Bellefair&display=swap');
+
+body {
+    background-color:#CDFCF6;
+
+}
+
+hr {
+    width: 4%;
+    border-color: #FFCAC8;
+    border-style: none;
+    border-width: 0.30rem;
+    border-top-style: dotted;
+}
+     
+img {
+    width: 15rem;
+}
+
+h1 {
+    color:#66bfbf;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Bellefair', serif;
+    
+}
+
+h2 {
+    color:#66bfbf;
+}
+
+/*-------------------------------------------------------------------CLASS SELECTORS----------------------------------------------------------------------*/
+
+.skills {
+    color: magenta;
+}
+
+.skills:hover {
+    color: red;
+    background-color: black;
+}
